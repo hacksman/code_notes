@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "86257d6a1588f2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcbdb8e1213df377",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git/git fork 后如何同步远程仓库的更新内容.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0875a6ef7c52b97",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30d7579e4c441f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09f02d7aa88cd599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e3c5a1ad5cbc245",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46993d7099e07c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63fe52fea281d23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1368500c134e48ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/git fork 后如何同步远程仓库的更新内容.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fcbdb8e1213df377",
+  "lastOpenFiles": [
+    "git/git fork 后如何同步远程仓库的更新内容.md",
+    "未命名.md"
+  ]
+}
