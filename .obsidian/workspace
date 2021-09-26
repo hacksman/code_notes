@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/bash 数组的使用.md",
+            "file": "inbox/vscode 中修改配置项的方式.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/bash 数组的使用.md",
+                "file": "inbox/vscode 中修改配置项的方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
-    "inbox/bash 数组的使用.md",
+    "inbox/vscode 中修改配置项的方式.md",
     "inbox/单调栈.md",
+    "Pasted image 20210926173847.png",
+    "Pasted image 20210926173754.png",
+    "Pasted image 20210926173657.png",
+    "Pasted image 20210926173327.png",
     "未命名.md",
+    "inbox/bash 数组的使用.md",
     "algorithm/栈和队列.md",
-    "单调栈.md",
-    "git/git fork 后如何同步远程仓库的更新内容.md"
+    "单调栈.md"
   ]
 }
