@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/git fork 后如何同步远程仓库的更新内容.md",
-            "mode": "source"
+            "file": "algorithm/栈和队列.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,13 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git fork 后如何同步远程仓库的更新内容.md",
+                "file": "algorithm/栈和队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -88,7 +88,10 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
-    "git/git fork 后如何同步远程仓库的更新内容.md",
-    "未命名.md"
+    "algorithm/栈和队列.md",
+    "inbox/单调栈.md",
+    "单调栈.md",
+    "未命名.md",
+    "git/git fork 后如何同步远程仓库的更新内容.md"
   ]
 }

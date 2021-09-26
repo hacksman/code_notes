@@ -20,6 +20,5 @@ git fetch upstream
 git merge upstream/master
 ```
 
-
 #### 参考连接
 [gitlab或github下fork后如何同步源的新更新内容？ - HyG cs的回答](https://www.zhihu.com/question/28676261/answer/44606041)
