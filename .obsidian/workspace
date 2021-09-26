@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/栈和队列.md",
-            "mode": "preview"
+            "file": "inbox/bash 数组的使用.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/栈和队列.md",
+                "file": "inbox/bash 数组的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,11 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
-    "algorithm/栈和队列.md",
+    "inbox/bash 数组的使用.md",
     "inbox/单调栈.md",
-    "单调栈.md",
     "未命名.md",
+    "algorithm/栈和队列.md",
+    "单调栈.md",
     "git/git fork 后如何同步远程仓库的更新内容.md"
   ]
 }
