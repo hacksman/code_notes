@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/vscode 中修改配置项的方式.md",
-            "mode": "source"
+            "file": "algorithm/栈和队列.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/vscode 中修改配置项的方式.md",
+                "file": "algorithm/栈和队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "algorithm/栈和队列.md",
+    "未命名.md",
     "inbox/vscode 中修改配置项的方式.md",
     "inbox/单调栈.md",
     "Pasted image 20210926173847.png",
     "Pasted image 20210926173754.png",
     "Pasted image 20210926173657.png",
     "Pasted image 20210926173327.png",
-    "未命名.md",
     "inbox/bash 数组的使用.md",
-    "algorithm/栈和队列.md",
     "单调栈.md"
   ]
 }

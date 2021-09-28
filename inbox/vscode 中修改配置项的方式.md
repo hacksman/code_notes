@@ -13,3 +13,6 @@
 改完之后就可以愉快地按照我们之前的习惯创建文件夹啦！
 
 ![[Pasted image 20210926173847.png]]
+
+## 参考资料
+[VS Code - Add a new file under the selected working directory](https://stackoverflow.com/questions/39599514/vs-code-add-a-new-file-under-the-selected-working-directory)
