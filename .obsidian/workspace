@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/栈和队列.md",
-            "mode": "preview"
+            "file": "python/python  分割字符并保留分隔符.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/栈和队列.md",
+                "file": "python/python  分割字符并保留分隔符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ca415284d00f7f10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
-    "algorithm/栈和队列.md",
     "未命名.md",
-    "inbox/vscode 中修改配置项的方式.md",
-    "inbox/单调栈.md",
-    "Pasted image 20210926173847.png",
-    "Pasted image 20210926173754.png",
-    "Pasted image 20210926173657.png",
-    "Pasted image 20210926173327.png",
     "inbox/bash 数组的使用.md",
-    "单调栈.md"
+    "git/git fork 后如何同步远程仓库的更新内容.md",
+    "linux/未命名.md",
+    "shino/教程.md",
+    "shino/shino.md",
+    "mysql/将 pycharm 中生成的带 index 的建表语句转换成 pymysql 可执行的样式.md",
+    "mysql/mysql 获取近 n 天的查询语法.md",
+    "npm/npm 项目初始化.md",
+    "algorithm/面试题，计算器临时存储.md"
   ]
 }
