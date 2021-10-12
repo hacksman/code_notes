@@ -1,12 +1,11 @@
 
 ## 基础环境
-
 配置爬取的规则非常简单，但在开始之前，请确保你已经安装好 mysql、rabbitmq 和 redis 并已经正常启动它们。
 
 我们启动数据库和消息队列后，可以通过校验程序测试一下服务是否正常。比如这里我们选择校验本地环境程序是否正常，可以这样键入命令
 
 ```shell
- python shino/check.py --env local
+ python shino/check.py --env debug
 ```
 
 如果出现以下字样，代表服务正常启动
