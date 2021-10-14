@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "shino/shino 教程 - 知乎热榜数据抓取.md",
-            "mode": "source"
+            "file": "shino/shino 原理说明.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shino/shino 教程 - 知乎热榜数据抓取.md",
+                "file": "shino/shino 原理说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
-    "shino/shino 教程.md",
+    "shino/shino 原理说明.md",
     "shino/shino.md",
-    "shino/教程.md",
+    "shino/shino 教程 - 知乎热榜数据抓取.md",
     "未命名.md",
+    "shino/shino 教程.md",
+    "shino/教程.md",
     "inbox/bash 数组的使用.md",
     "git/git fork 后如何同步远程仓库的更新内容.md",
     "linux/未命名.md",
-    "mysql/将 pycharm 中生成的带 index 的建表语句转换成 pymysql 可执行的样式.md",
-    "mysql/mysql 获取近 n 天的查询语法.md",
-    "npm/npm 项目初始化.md"
+    "mysql/将 pycharm 中生成的带 index 的建表语句转换成 pymysql 可执行的样式.md"
   ]
 }
