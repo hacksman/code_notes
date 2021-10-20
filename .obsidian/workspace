@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/koa-bodyparser 解析多种数据类型.md",
+            "file": "javascript/js 对象替换原对象的键.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/koa-bodyparser 解析多种数据类型.md",
+                "file": "javascript/js 对象替换原对象的键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
