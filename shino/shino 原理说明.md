@@ -2,7 +2,7 @@
 shino 项目分为 5 大模块，分别为种子生成器、下载器、解析器、清洗器和存储器。模块与模块之间通过消息队列进行通信，解耦各模块带来的好处是可以分别部署独立开发，非常灵活
 
 ## 架构图
-![](https://gitee.com/hacksman/img_host/raw/master/img/shino_architecture.jpg)
+![](https://gitee.com/hacksman/img_host/raw/master/img/english-architecture.jpg)
 
 ## 功能模块
 ### 种子生成器
