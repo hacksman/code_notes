@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/nodejs restful api 搭建.md",
+            "file": "algorithm/散列表.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/nodejs restful api 搭建.md",
+                "file": "algorithm/散列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
-    "nodejs/nodejs restful api 搭建.md",
+    "algorithm/散列表.md",
+    "algorithm/栈和队列.md",
     "linux/linux 拷贝文件夹.md",
+    "vscode/vscode 常用快捷键.md",
+    "koa 跨域问题解决方案.md",
+    "TypeScript.md",
+    "nodejs/nodejs restful api 搭建.md",
+    "nodejs/prisma 未解决的时区问题临时解决方法.md",
     "cs/原码、补码、反码、移码.md",
-    "git/git fork 后如何同步远程仓库的更新内容.md",
-    "inbox/vscode 中修改配置项的方式.md",
-    "inbox/bash 数组的使用.md",
-    "javascript/js 对象替换原对象的键.md",
-    "mysql/将 pycharm 中生成的带 index 的建表语句转换成 pymysql 可执行的样式.md",
-    "mysql/mysql 获取近 n 天的查询语法.md",
-    "nodejs/koa-bodyparser 解析多种数据类型.md"
+    "git/git fork 后如何同步远程仓库的更新内容.md"
   ]
 }
