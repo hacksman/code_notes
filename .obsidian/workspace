@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm/散列函数.md",
+            "file": "git/git 提示 Permission denied (publickey) 的解决方案.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/散列函数.md",
+                "file": "git/git 提示 Permission denied (publickey) 的解决方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "git/git 提示 Permission denied (publickey) 的解决方案.md",
     "algorithm/散列函数.md",
     "algorithm/散列表.md",
     "algorithm/数据结构.md",
@@ -115,7 +116,6 @@
     "nodejs/koa 跨域问题解决方案.md",
     "TypeScript.md",
     "Pasted image 20211109085109.png",
-    "nodejs/koa-bodyparser 解析多种数据类型.md",
-    "algorithm/栈和队列.md"
+    "nodejs/koa-bodyparser 解析多种数据类型.md"
   ]
 }
