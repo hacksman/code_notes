@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "typescript/typescript 中的 never.md",
+            "file": "typescript/typescript 中的 unknow.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/typescript 中的 never.md",
+                "file": "typescript/typescript 中的 unknow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "typescript/typescript 中的 unknow.md",
+    "typescript/命令行直接运行 typescript 脚本.md",
     "typescript/typescript 中的 never.md",
     "typescript/tsc.md",
-    "typescript/命令行直接运行 typescript 脚本.md",
     "algorithm/MD5.md",
     "cs/原码、补码、反码、移码.md",
     "cs/字节.md",
     "cs/比特位.md",
     "cs/进制.md",
-    "nodejs/nodejs 使用 xlrd 库解析 excel.md",
-    "algorithm/散列函数.md"
+    "nodejs/nodejs 使用 xlrd 库解析 excel.md"
   ]
 }
