@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vue/vue 中 @click 的事件修饰符.md",
+            "file": "element-plus/element-plus 中的导入.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/vue 中 @click 的事件修饰符.md",
+                "file": "element-plus/element-plus 中的导入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "element-plus/element-plus 中的导入.md",
+    "vue/vue 项目搭建最佳案例.md",
     "vue/vue 中 @click 的事件修饰符.md",
     "linux/linux 拷贝文件夹.md",
     "nodejs/nodejs 项目结构.md",
@@ -114,8 +116,6 @@
     "nodejs/nodejs restful api 搭建.md",
     "nodejs/koa 跨域问题解决方案.md",
     "nodejs/koa-body 解析 excel.md",
-    "javascript/js 对象替换原对象的键.md",
-    "npm/npm -S -D -g 的作用.md",
-    "npm/.npmrc 配置镜像.md"
+    "javascript/js 对象替换原对象的键.md"
   ]
 }
