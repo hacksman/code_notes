@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "element-plus/element-plus 中的导入.md",
+            "file": "npm/npm 包安装.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "element-plus/element-plus 中的导入.md",
+                "file": "npm/npm 包安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "npm/npm 包安装.md",
+    "npm/npm 项目初始化.md",
+    "npm/npm 版本升级.md",
+    "使用 vite 创建项目.md",
     "element-plus/element-plus 中的导入.md",
-    "vue/vue 项目搭建最佳案例.md",
-    "vue/vue 中 @click 的事件修饰符.md",
-    "linux/linux 拷贝文件夹.md",
-    "nodejs/nodejs 项目结构.md",
-    "nodejs/nodejs 使用 xlrd 库解析 excel.md",
-    "nodejs/nodejs restful api 搭建.md",
-    "nodejs/koa 跨域问题解决方案.md",
-    "nodejs/koa-body 解析 excel.md",
-    "javascript/js 对象替换原对象的键.md"
+    "cs/原码、补码、反码、移码.md",
+    "cs/进制.md",
+    "cs/比特位.md",
+    "cs/字节.md",
+    "vue/vue 项目搭建最佳案例.md"
   ]
 }
