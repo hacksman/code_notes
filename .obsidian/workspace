@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "npm/npm 包安装.md",
+            "file": "typescript/typescript 中的泛型.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/npm 包安装.md",
+                "file": "typescript/typescript 中的泛型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "typescript/typescript 中的泛型.md",
+    "npm/npm -S -D -g 的作用.md",
     "npm/npm 包安装.md",
     "npm/npm 项目初始化.md",
     "npm/npm 版本升级.md",
@@ -114,8 +116,6 @@
     "element-plus/element-plus 中的导入.md",
     "cs/原码、补码、反码、移码.md",
     "cs/进制.md",
-    "cs/比特位.md",
-    "cs/字节.md",
-    "vue/vue 项目搭建最佳案例.md"
+    "cs/比特位.md"
   ]
 }
