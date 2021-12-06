@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/不用 dotenv 切换不同项目的环境.md",
+            "file": "nodejs/nodejs 项目结构.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/不用 dotenv 切换不同项目的环境.md",
+                "file": "nodejs/nodejs 项目结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "nodejs/nodejs 项目结构.md",
     "nodejs/不用 dotenv 切换不同项目的环境.md",
     "npm/node.md",
     "vue/vue 项目结构.md",
@@ -115,7 +116,6 @@
     "vite/使用 vite 创建项目.md",
     "typescript/typescript 中 @ 引入报错.md",
     "vue/在 vue 中引入 eachrats 图表.md",
-    "typescript/typescript 中的泛型.md",
-    "npm/npm -S -D -g 的作用.md"
+    "typescript/typescript 中的泛型.md"
   ]
 }
