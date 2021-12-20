@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/python 序列化带 datetime 格式的 json.md",
+            "file": "git/git 提交到 github 后 contribution 不显示.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python 序列化带 datetime 格式的 json.md",
+                "file": "git/git 提交到 github 后 contribution 不显示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "git/git 提交到 github 后 contribution 不显示.md",
+    "python/python  分割字符并保留分隔符.md",
     "python/python 序列化带 datetime 格式的 json.md",
     "playwright/inbox.md",
     "typescript/命令行直接运行 typescript 脚本.md",
@@ -114,8 +116,6 @@
     "nodejs/不用 dotenv 切换不同项目的环境.md",
     "npm/node.md",
     "vue/vue 项目结构.md",
-    "vue/vue 项目搭建最佳案例.md",
-    "vue/vuex 理解.md",
-    "vite/使用 vite 创建项目.md"
+    "vue/vue 项目搭建最佳案例.md"
   ]
 }
