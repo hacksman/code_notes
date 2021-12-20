@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/nodejs 项目结构.md",
+            "file": "python/python 序列化带 datetime 格式的 json.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/nodejs 项目结构.md",
+                "file": "python/python 序列化带 datetime 格式的 json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "fcbdb8e1213df377",
   "lastOpenFiles": [
+    "python/python 序列化带 datetime 格式的 json.md",
+    "playwright/inbox.md",
+    "typescript/命令行直接运行 typescript 脚本.md",
     "nodejs/nodejs 项目结构.md",
     "nodejs/不用 dotenv 切换不同项目的环境.md",
     "npm/node.md",
     "vue/vue 项目结构.md",
     "vue/vue 项目搭建最佳案例.md",
     "vue/vuex 理解.md",
-    "vite/使用 vite 创建项目.md",
-    "typescript/typescript 中 @ 引入报错.md",
-    "vue/在 vue 中引入 eachrats 图表.md",
-    "typescript/typescript 中的泛型.md"
+    "vite/使用 vite 创建项目.md"
   ]
 }
